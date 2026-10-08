@@ -1,0 +1,9 @@
+# File nguon CorelDRAW (binary, dung luong lon, khong xem truc tiep tren GitHub)
+*.cdr
+
+# He dieu hanh / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
